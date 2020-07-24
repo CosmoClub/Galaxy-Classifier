@@ -1,0 +1,3 @@
+0 elliptical_galaxy
+1 irregular_galaxy
+2 spiral_galaxy
